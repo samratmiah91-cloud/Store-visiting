@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path
+        name="checkin_photos"
+        path="checkin_photos/" />
+    <files-path
+        name="task_photos"
+        path="task_photos/" />
+    <files-path
+        name="exports"
+        path="exports/" />
+    <cache-path
+        name="temp_camera"
+        path="temp_camera/" />
+</paths>

@@ -1,0 +1,6 @@
+{
+  "name": "StoreVisit",
+  "description": "Store Visitor Management App with GPS check-in, live store map, task management, attendance, offline sync, and role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

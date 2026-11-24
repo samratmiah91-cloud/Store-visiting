@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StoreVisit</string>
+    <string name="app_tagline">Field Store Operations &amp; Telemetry</string>
+    <string name="notification_channel_id">storevisit_alerts</string>
+    <string name="notification_channel_name">StoreVisit Alerts</string>
+    <string name="notification_channel_desc">OTP verification, store assignments, tasks, reschedule updates, and late visit alerts</string>
+</resources>
